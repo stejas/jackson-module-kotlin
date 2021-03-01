@@ -140,6 +140,7 @@
                         <configuration>
                             <args>
                                 <arg>-Xinline-classes</arg>
+                                <arg>-Xuse-ir</arg>
                             </args>
                         </configuration>
                     </execution>
